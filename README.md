@@ -1,5 +1,7 @@
 # GFG_DSA_SHEET
 
+## ARRAYS
+
 - [x] [1. Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0)
 - [x] [2. Equilibrium point ](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
 - [x] [3. Sort an array of 0s, 1s and 2s ](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
