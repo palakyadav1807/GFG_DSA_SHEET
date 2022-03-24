@@ -12,13 +12,13 @@
 - [x] [8. K-th element of two sorted Arrays ](https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0)
 - [x] [9. Check if two arrays are equal or not ](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not/0)
 - [x] [10. Kadane’s Algorithm ](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
-- [ ] [11. Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
-- [ ] [12. Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
+- [x] [11. Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
+- [x] [12. Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
 - [ ] [13. Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms/0)
-- [ ] [14. Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
-- [ ] [15. Largest Number formed from an Array ](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0)
+- [x] [14. Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
+- [x] [15. Largest Number formed from an Array ](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0)
 - [ ] [16. Largest subarray with 0 sum ](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
-- [ ] [17. Swapping pairs make sum equal](https://practice.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal/0)
+- [x] [17. Swapping pairs make sum equal](https://practice.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal/0)
 
 
 ## Searching and Sorting
