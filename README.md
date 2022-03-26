@@ -23,9 +23,9 @@
 
 ## Searching and Sorting
 
-- [ ] [1. Binary Search](https://practice.geeksforgeeks.org/problems/binary-search/1)
-- [ ] [2. Quick Sort ](https://practice.geeksforgeeks.org/problems/quick-sort/1)
-- [ ] [3. Merge Sort ](https://practice.geeksforgeeks.org/problems/merge-sort/1)
+- [x] [1. Binary Search](https://practice.geeksforgeeks.org/problems/binary-search/1)
+- [x] [2. Quick Sort ](https://practice.geeksforgeeks.org/problems/quick-sort/1)
+- [x] [3. Merge Sort ](https://practice.geeksforgeeks.org/problems/merge-sort/1)
 - [ ] [4. Merge two sorted arrays](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays/0/)
 - [ ] [5. Inversion of Array ](https://practice.geeksforgeeks.org/problems/inversion-of-array/0/)
 - [ ] [6. Search in a Rotated Array ](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0)
