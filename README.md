@@ -30,7 +30,7 @@
 - [x] [5. Inversion of Array ](https://practice.geeksforgeeks.org/problems/inversion-of-array/0/)
 - [x] [6. Search in a Rotated Array ](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0)
 - [x] [7. Sorting Elements of an Array by Frequency ](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0)
-- [ ] [8. Sum of Middle Elements of two sorted arrays ](https://practice.geeksforgeeks.org/problems/sum-of-middle-elements-of-two-sorted-arrays/0)
+- [x] [8. Sum of Middle Elements of two sorted arrays ](https://practice.geeksforgeeks.org/problems/sum-of-middle-elements-of-two-sorted-arrays/0)
 - [x] [9. K’th smallest element ](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
 - [ ] [10. Allocate minimum number of pages ](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1/)
 
