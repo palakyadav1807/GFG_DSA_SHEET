@@ -37,11 +37,11 @@
 
 ## Hashing
 
-- [ ] [1. First element to occur k times](https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times/0)
-- [ ] [2. Find the element that appears once in sorted array ](https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array/0)
+- [x] [1. First element to occur k times](https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times/0)
+- [x] [2. Find the element that appears once in sorted array ](https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array/0)
 - [ ] [3. Number of pairs ](https://practice.geeksforgeeks.org/problems/number-of-pairs/0/)
-- [ ] [4. Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
-- [ ] [5. Common elements ](https://practice.geeksforgeeks.org/problems/common-elements/0)
+- [x] [4. Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
+- [x] [5. Common elements ](https://practice.geeksforgeeks.org/problems/common-elements/0)
 - [ ] [6. Find all four sum numbers ](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
 - [ ] [7. Count distinct elements in every window ](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1)
 - [ ] [8. Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0)
