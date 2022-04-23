@@ -43,11 +43,11 @@
 - [x] [4. Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
 - [x] [5. Common elements ](https://practice.geeksforgeeks.org/problems/common-elements/0)
 - [ ] [6. Find all four sum numbers ](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
-- [ ] [7. Count distinct elements in every window ](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1)
-- [ ] [8. Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0)
-- [ ] [9. Longest consecutive subsequence ](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0)
+- [x] [7. Count distinct elements in every window ](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1)
+- [x] [8. Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0)
+- [x] [9. Longest consecutive subsequence ](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0)
 - [ ] [10. Array Subset of another array ](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0)
-- [ ] [11. Zero Sum Subarrays ](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0)
+- [x] [11. Zero Sum Subarrays ](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0)
 - [ ] [12.Relative Sorting ](https://practice.geeksforgeeks.org/problems/relative-sorting/0)
 
 
