@@ -39,16 +39,16 @@
 
 - [x] [1. First element to occur k times](https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times/0)
 - [x] [2. Find the element that appears once in sorted array ](https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array/0)
-- [ ] [3. Number of pairs ](https://practice.geeksforgeeks.org/problems/number-of-pairs/0/)
+- [x] [3. Number of pairs ](https://practice.geeksforgeeks.org/problems/number-of-pairs/0/)
 - [x] [4. Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
 - [x] [5. Common elements ](https://practice.geeksforgeeks.org/problems/common-elements/0)
-- [ ] [6. Find all four sum numbers ](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
+- [x] [6. Find all four sum numbers ](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
 - [x] [7. Count distinct elements in every window ](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1)
 - [x] [8. Array Pair Sum Divisibility Problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0)
 - [x] [9. Longest consecutive subsequence ](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0)
-- [ ] [10. Array Subset of another array ](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0)
+- [x] [10. Array Subset of another array ](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0)
 - [x] [11. Zero Sum Subarrays ](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0)
-- [ ] [12.Relative Sorting ](https://practice.geeksforgeeks.org/problems/relative-sorting/0)
+- [x] [12. Relative Sorting ](https://practice.geeksforgeeks.org/problems/relative-sorting/0)
 
 
 ## Matrix
