@@ -1,4 +1,4 @@
-# GFG_DSA_SHEET
+# [GFG_DSA_SHEET]()
 
 ## ARRAYS
 
@@ -53,10 +53,29 @@
 
 ## Matrix
 
-- [ ] [ Rotate a matrix](https://practice.geeksforgeeks.org/problems/rotate-matrix-elements-clockwise2336/1)
-- [ ] [ Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/)
-- [ ] [ Search in a row wise and column wise sorted matrix](https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1/)
-- [ ] [ Print all palindromic paths from top left to bottom right in a matrix](https://www.geeksforgeeks.org/print-palindromic-paths-top-left-bottom-right-matrix/)
-- [ ] [ Find the row with maximum number of 1s](https://practice.geeksforgeeks.org/problems/maximum-no-of-1s-row3027/1/)
-- [ ] [ Find median in row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1/)
-- [ ] [ Check if all rows of a matrix are circular rotations of each other](https://www.geeksforgeeks.org/check-rows-matrix-circular-rotations/)
+- [ ] [1. Rotate a matrix](https://practice.geeksforgeeks.org/problems/rotate-matrix-elements-clockwise2336/1)
+- [ ] [2. Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/)
+- [ ] [3. Search in a row wise and column wise sorted matrix](https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1/)
+- [ ] [4. Print all palindromic paths from top left to bottom right in a matrix](https://www.geeksforgeeks.org/print-palindromic-paths-top-left-bottom-right-matrix/)
+- [ ] [5.Find the row with maximum number of 1s](https://practice.geeksforgeeks.org/problems/maximum-no-of-1s-row3027/1/)
+- [ ] [6. Find median in row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1/)
+- [ ] [7. Check if all rows of a matrix are circular rotations of each other](https://www.geeksforgeeks.org/check-rows-matrix-circular-rotations/)
+
+
+## String
+
+- [ ] [1. Find first repeated character](https://practice.geeksforgeeks.org/problems/find-first-repeated-character/0)
+- [ ] [2. Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0)
+- [ ] [3. Check if string is rotated by two places](https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/0)
+- [ ] [4. Roman Number to Integer](https://practice.geeksforgeeks.org/problems/roman-number-to-integer/0)
+- [ ] [5. Remove Duplicates](https://practice.geeksforgeeks.org/problems/remove-duplicates/0)
+- [ ] [6. Longest Distinct Characters in the string](https://practice.geeksforgeeks.org/problems/implement-atoi/1)
+- [ ] [7. Implement Atoi](https://practice.geeksforgeeks.org/problems/implement-atoi/1)
+- [ ] [8. Implement strstr](https://practice.geeksforgeeks.org/problems/implement-strstr/1)
+- [ ] [9. Rabin Karp Algorithm](https://practice.geeksforgeeks.org/problems/31272eef104840f7430ad9fd1d43b434a4b9596b/1/)
+- [ ] [10. KMP Algorithm](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1)
+- [ ] [11. Convert a Sentence into its equivalent mobile numeric keypad sequence.](https://practice.geeksforgeeks.org/problems/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence/0)
+- [ ] [12. Longest Common Prefix](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array/0)
+- [ ] [13. Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0)
+- [ ] [14. Uncommon characters](https://practice.geeksforgeeks.org/problems/uncommon-characters/0)
+- [ ] [15. Minimum indexed character](https://practice.geeksforgeeks.org/problems/minimum-indexed-character/0)
