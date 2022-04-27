@@ -32,14 +32,14 @@
 - [x] [7. Sorting Elements of an Array by Frequency ](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0)
 - [x] [8. Sum of Middle Elements of two sorted arrays ](https://practice.geeksforgeeks.org/problems/sum-of-middle-elements-of-two-sorted-arrays/0)
 - [x] [9. K’th smallest element ](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
-- [ ] [10. Allocate minimum number of pages ](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1/)
+- [ ] [10. Allocate minimum number of pages ](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1/) *
 
 
 ## Hashing
 
 - [x] [1. First element to occur k times](https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times/0)
 - [x] [2. Find the element that appears once in sorted array ](https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array/0)
-- [x] [3. Number of pairs ](https://practice.geeksforgeeks.org/problems/number-of-pairs/0/)
+- [x] [3. Number of pairs ](https://practice.geeksforgeeks.org/problems/number-of-pairs/0/) *
 - [x] [4. Find all pairs with a given sum](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0)
 - [x] [5. Common elements ](https://practice.geeksforgeeks.org/problems/common-elements/0)
 - [x] [6. Find all four sum numbers ](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
@@ -64,9 +64,9 @@
 
 ## String
 
-- [ ] [1. Find first repeated character](https://practice.geeksforgeeks.org/problems/find-first-repeated-character/0)
-- [ ] [2. Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0)
-- [ ] [3. Check if string is rotated by two places](https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/0)
+- [x] [1. Find first repeated character](https://practice.geeksforgeeks.org/problems/find-first-repeated-character/1)
+- [x] [2. Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0)
+- [x] [3. Check if string is rotated by two places](https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/0)
 - [ ] [4. Roman Number to Integer](https://practice.geeksforgeeks.org/problems/roman-number-to-integer/0)
 - [ ] [5. Remove Duplicates](https://practice.geeksforgeeks.org/problems/remove-duplicates/0)
 - [ ] [6. Longest Distinct Characters in the string](https://practice.geeksforgeeks.org/problems/implement-atoi/1)
