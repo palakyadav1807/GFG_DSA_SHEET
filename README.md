@@ -1,6 +1,6 @@
 # [GFG_DSA_SHEET](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)
 
-## ARRAYS
+## Arrays
 
 - [x] [1. Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0)
 - [x] [2. Equilibrium point ](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
@@ -53,8 +53,8 @@
 
 ## Matrix
 
-- [ ] [1. Rotate a matrix](https://practice.geeksforgeeks.org/problems/rotate-matrix-elements-clockwise2336/1)
-- [ ] [2. Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/)
+- [x] [1. Rotate a matrix](https://practice.geeksforgeeks.org/problems/rotate-matrix-elements-clockwise2336/1)
+- [x] [2. Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/)
 - [ ] [3. Search in a row wise and column wise sorted matrix](https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1/)
 - [ ] [4. Print all palindromic paths from top left to bottom right in a matrix](https://www.geeksforgeeks.org/print-palindromic-paths-top-left-bottom-right-matrix/)
 - [ ] [5.Find the row with maximum number of 1s](https://practice.geeksforgeeks.org/problems/maximum-no-of-1s-row3027/1/)
@@ -75,7 +75,7 @@
 - [x] [9. Rabin Karp Algorithm](https://practice.geeksforgeeks.org/problems/31272eef104840f7430ad9fd1d43b434a4b9596b/1/)
 - [ ] [10. KMP Algorithm](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1)
 - [x] [11. Convert a Sentence into its equivalent mobile numeric keypad sequence.](https://practice.geeksforgeeks.org/problems/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence/0)
-- [ ] [12. Longest Common Prefix](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array/0)
+- [x] [12. Longest Common Prefix](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array/0)
 - [ ] [13. Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0)
-- [ ] [14. Uncommon characters](https://practice.geeksforgeeks.org/problems/uncommon-characters/0)
+- [x] [14. Uncommon characters](https://practice.geeksforgeeks.org/problems/uncommon-characters/0)
 - [x] [15. Minimum indexed character](https://practice.geeksforgeeks.org/problems/minimum-indexed-character/0)
