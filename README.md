@@ -55,11 +55,11 @@
 
 - [x] [1. Rotate a matrix](https://practice.geeksforgeeks.org/problems/rotate-matrix-elements-clockwise2336/1)
 - [x] [2. Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/)
-- [ ] [3. Search in a row wise and column wise sorted matrix](https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1/)
-- [ ] [4. Print all palindromic paths from top left to bottom right in a matrix](https://www.geeksforgeeks.org/print-palindromic-paths-top-left-bottom-right-matrix/)
-- [ ] [5.Find the row with maximum number of 1s](https://practice.geeksforgeeks.org/problems/maximum-no-of-1s-row3027/1/)
-- [ ] [6. Find median in row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1/)
-- [ ] [7. Check if all rows of a matrix are circular rotations of each other](https://www.geeksforgeeks.org/check-rows-matrix-circular-rotations/)
+- [x] [3. Search in a row wise and column wise sorted matrix](https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1/)
+- [x] [4. Print all palindromic paths from top left to bottom right in a matrix](https://www.geeksforgeeks.org/print-palindromic-paths-top-left-bottom-right-matrix/)
+- [x] [5.Find the row with maximum number of 1s](https://practice.geeksforgeeks.org/problems/maximum-no-of-1s-row3027/1/)
+- [x] [6. Find median in row wise sorted matrix](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1/)
+- [x] [7. Check if all rows of a matrix are circular rotations of each other](https://www.geeksforgeeks.org/check-rows-matrix-circular-rotations/)
 
 
 ## String
