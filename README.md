@@ -79,3 +79,102 @@
 - [ ] [13. Smallest window in a string containing all the characters of another string](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0)
 - [x] [14. Uncommon characters](https://practice.geeksforgeeks.org/problems/uncommon-characters/0)
 - [x] [15. Minimum indexed character](https://practice.geeksforgeeks.org/problems/minimum-indexed-character/0)
+
+
+## Recursion and Backtracking
+
+- [] [1. Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
+- [] [2. Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)
+- [] [3. Special Keyboard](https://practice.geeksforgeeks.org/problems/special-keyboard3018/1/)
+- [] [4. Permutations of a given string	](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)
+- [] [5. N-Queen Problem](https://practice.geeksforgeeks.org/problems/n-queen-problem/0)
+- [] [6. Solve the Sudoku](https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0)
+- [] [7. Rat in a Maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+- [] [8. Word Boggle](https://practice.geeksforgeeks.org/problems/word-boggle/0)
+- [] [9. Generate IP Addresses](https://practice.geeksforgeeks.org/problems/generate-ip-addresses/1)
+
+
+## Greedy Approach
+
+- [] [1. Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection/0)
+- [] [2. N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0)
+- [] [3. Coin Piles](https://practice.geeksforgeeks.org/problems/coin-piles/0)
+- [] [4. Maximize Toys](https://practice.geeksforgeeks.org/problems/maximize-toys/0)
+- [] [5. Page Faults in LRU](https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0)
+- [] [6. Largest number possible](https://practice.geeksforgeeks.org/problems/largest-number-possible/0)
+- [] [7. Minimize the heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights/0)
+- [] [8. Minimize the sum of product](https://practice.geeksforgeeks.org/problems/minimize-the-sum-of-product/0)
+- [] [9. Huffman Decoding](https://practice.geeksforgeeks.org/problems/huffman-decoding-1/1)
+- [] [10. Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1)
+
+
+## Dyanamic Programming
+
+- [] [1. Minimum number of Coins](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins/0)
+- [] [2. Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring/0)
+- [] [3. Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0)
+- [] [4. Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0)
+- [] [5. 0-1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0)
+- [] [6. Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0)
+- [] [7. Minimum number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)
+- [] [8. Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance/0)
+- [] [9. Coin Change Problem](https://practice.geeksforgeeks.org/problems/coin-change/0)
+- [] [10. Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0)
+- [] [11. Longest Palindrome in a String](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0)
+- [] [12. Form a Palindrome](https://practice.geeksforgeeks.org/problems/form-a-palindrome/0)
+- [] [13. Box Stacking](https://practice.geeksforgeeks.org/problems/box-stacking/1)
+- [] [14. Rod Cutting](https://practice.geeksforgeeks.org/problems/cutted-segments/0)
+- [] [15. Min Cost Path](https://practice.geeksforgeeks.org/problems/path-in-matrix/0)
+- [] [16. Minimum sum partition](https://practice.geeksforgeeks.org/problems/minimum-sum-partition/0)
+- [] [17. Count number of ways to cover a distance](https://practice.geeksforgeeks.org/problems/count-number-of-hops/0)
+- [] [18. Egg Dropping Puzzle](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0)
+
+
+## Graph
+
+- [] [1. Depth First Traversal](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
+- [] [2. Breadth First Traversal](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
+- [] [3. Detect cycle in undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1/)
+- [] [4. Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
+- [] [5. Topological sort](https://practice.geeksforgeeks.org/problems/topological-sort/1)
+- [] [6. Find the number of islands](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1)
+- [] [7. Implementing Dijkstra](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
+- [] [8. Minimum Swaps	](https://practice.geeksforgeeks.org/problems/minimum-swaps/1)
+- [] [9. Strongly Connected Components](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
+- [] [10. Shortest Source to Destination Path](https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path/0)
+- [] [11. Find whether path exist](https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0)
+- [] [12. Minimum Cost Path](https://practice.geeksforgeeks.org/problems/minimum-cost-path/0)
+- [] [13. Circle of Strings	](https://practice.geeksforgeeks.org/problems/circle-of-strings/0)
+- [] [14. Floyd Warshall](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall/0)
+- [] [15. Alien Dictionary	](https://practice.geeksforgeeks.org/problems/alien-dictionary/1)
+- [] [16. Snske and Ladder Problem](https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem/0)
+
+
+## Trie
+
+- [] [1. Trie | (Insert and Search)](https://practice.geeksforgeeks.org/problems/trie-insert-and-search0651/1/)
+- [] [2. Trie | (Delete)](https://practice.geeksforgeeks.org/problems/trie-delete/1/)
+- [] [3. Print unique rows in a given Binary matrix](https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1)
+- [] [4. Counting the number of words in a Trie](https://www.geeksforgeeks.org/counting-number-words-trie)
+- [] [5. Longest Common Prefix using Trie](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array/0)
+- [] [6. Auto-complete feature using Trie](https://www.geeksforgeeks.org/auto-complete-feature-using-trie/)
+- [] [7. Boggle | Set 2 (Using Trie)](https://www.geeksforgeeks.org/boggle-set-2-using-trie/)
+- [] [8. Minimum XOR Value Pair](https://practice.geeksforgeeks.org/problems/minimum-xor-value-pair/0)
+- [] [9. Palindrome pair in an array of words (or strings)](https://practice.geeksforgeeks.org/problems/palindrome-pairs/1)
+
+
+## Heap
+
+- [] [1. Heap Sort](https://practice.geeksforgeeks.org/problems/heap-sort/1)
+- [] [2. Finad Median in a Stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0)
+- [] [3. Operations on Binary Min Heap](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
+- [] [4. Rearrange characters](https://practice.geeksforgeeks.org/problems/rearrange-characters4649/1/)
+- [] [5. Merge K sorted Linked lists](https://practice.geeksforgeeks.org/problems/merge-k-sorted-Linked-lists/1)
+- [] [6. Kth smallest element in a row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1)
+
+<!-- Remaining :
+1. Bit Manipulation
+2. Stack and Queue
+3. Linked List
+4. Binary Tree
+5. Binary Search Tree --> 
