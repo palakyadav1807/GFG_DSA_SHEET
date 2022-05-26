@@ -83,10 +83,10 @@
 
 ## Recursion and Backtracking
 
-- [ ] [1. Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
-- [ ] [2. Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)
-- [ ] [3. Special Keyboard](https://practice.geeksforgeeks.org/problems/special-keyboard3018/1/)
-- [ ] [4. Permutations of a given string	](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)
+- [x] [1. Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0)
+- [x] [2. Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)
+- [x] [3. Special Keyboard](https://practice.geeksforgeeks.org/problems/special-keyboard3018/1/)
+- [x] [4. Permutations of a given string	](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)
 - [ ] [5. N-Queen Problem](https://practice.geeksforgeeks.org/problems/n-queen-problem/0)
 - [ ] [6. Solve the Sudoku](https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0)
 - [ ] [7. Rat in a Maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
@@ -173,8 +173,8 @@
 - [ ] [6. Kth smallest element in a row-column wise sorted matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1)
 
 <!-- Remaining :
-1. Bit Manipulation
-2. Stack and Queue
+1. Binary Tree
+2. Binary Search Tree
 3. Linked List
-4. Binary Tree
-5. Binary Search Tree --> 
+4. Stack and Queue
+5. Bit Manipulation --> 
