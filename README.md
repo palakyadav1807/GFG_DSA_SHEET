@@ -87,28 +87,14 @@
 - [x] [2. Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)
 - [x] [3. Special Keyboard](https://practice.geeksforgeeks.org/problems/special-keyboard3018/1/)
 - [x] [4. Permutations of a given string	](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)
-- [ ] [5. N-Queen Problem](https://practice.geeksforgeeks.org/problems/n-queen-problem/0)
-- [ ] [6. Solve the Sudoku](https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0)
-- [ ] [7. Rat in a Maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+- [x] [5. N-Queen Problem](https://practice.geeksforgeeks.org/problems/n-queen-problem/0)
+- [x] [6. Solve the Sudoku](https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0)
+- [x] [7. Rat in a Maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
 - [ ] [8. Word Boggle](https://practice.geeksforgeeks.org/problems/word-boggle/0)
-- [ ] [9. Generate IP Addresses](https://practice.geeksforgeeks.org/problems/generate-ip-addresses/1)
+- [x] [9. Generate IP Addresses](https://practice.geeksforgeeks.org/problems/generate-ip-addresses/1)
 
 
-## Greedy Approach
-
-- [ ] [1. Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection/0)
-- [ ] [2. N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0)
-- [ ] [3. Coin Piles](https://practice.geeksforgeeks.org/problems/coin-piles/0)
-- [ ] [4. Maximize Toys](https://practice.geeksforgeeks.org/problems/maximize-toys/0)
-- [ ] [5. Page Faults in LRU](https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0)
-- [ ] [6. Largest number possible](https://practice.geeksforgeeks.org/problems/largest-number-possible/0)
-- [ ] [7. Minimize the heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights/0)
-- [ ] [8. Minimize the sum of product](https://practice.geeksforgeeks.org/problems/minimize-the-sum-of-product/0)
-- [ ] [9. Huffman Decoding](https://practice.geeksforgeeks.org/problems/huffman-decoding-1/1)
-- [ ] [10. Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1)
-
-
-## Dyanamic Programming
+## Dynamic Programming
 
 - [ ] [1. Minimum number of Coins](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins/0)
 - [ ] [2. Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring/0)
@@ -128,6 +114,20 @@
 - [ ] [16. Minimum sum partition](https://practice.geeksforgeeks.org/problems/minimum-sum-partition/0)
 - [ ] [17. Count number of ways to cover a distance](https://practice.geeksforgeeks.org/problems/count-number-of-hops/0)
 - [ ] [18. Egg Dropping Puzzle](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0)
+
+
+## Greedy Approach
+
+- [ ] [1. Activity Selection](https://practice.geeksforgeeks.org/problems/activity-selection/0)
+- [ ] [2. N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0)
+- [ ] [3. Coin Piles](https://practice.geeksforgeeks.org/problems/coin-piles/0)
+- [ ] [4. Maximize Toys](https://practice.geeksforgeeks.org/problems/maximize-toys/0)
+- [ ] [5. Page Faults in LRU](https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0)
+- [ ] [6. Largest number possible](https://practice.geeksforgeeks.org/problems/largest-number-possible/0)
+- [ ] [7. Minimize the heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights/0)
+- [ ] [8. Minimize the sum of product](https://practice.geeksforgeeks.org/problems/minimize-the-sum-of-product/0)
+- [ ] [9. Huffman Decoding](https://practice.geeksforgeeks.org/problems/huffman-decoding-1/1)
+- [ ] [10. Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1)
 
 
 ## Graph
